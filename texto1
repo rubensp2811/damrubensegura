@@ -4,3 +4,8 @@ metete en cmd y  cd Documentos/github/damrubensegura/
 git add .
 git commit -m "pon lo que quieras"
 git push
+
+para sincro de git a pc poner:
+
+cd Documentos/github/damrubensegura/
+git pull
