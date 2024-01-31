@@ -1,1 +1,6 @@
 buenas tardes
+Sincronizar archivos
+metete en cmd y  cd Documentos/github/damrubensegura/
+git add .
+git commit -m "pon lo que quieras"
+git push
